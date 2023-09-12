@@ -11,4 +11,5 @@ A parte interativa do **Switch** é chamada pela instancia **telaprincipal.exibi
 acessar navegação na internet,, abrir uma nova aba, atualizar pagina e acessar nova URL***
 
 abaixo segue o Diagrama UML que fiz para demonstrar suas funcionalidades importadas ja que fiz em pacotes separados para deixar bem organizadinho. 
+
 ![Diagrama UML](https://github.com/MaykonLisboa/projeto.Iphone2007/assets/142188797/635e7ba3-2198-4344-8d92-400ebb397e89)
